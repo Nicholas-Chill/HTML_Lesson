@@ -49,4 +49,14 @@ a:hover {
 
 p span {
     color: indigo;
+    font-size: 25;
+}
+
+lable {
+    display: block;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
 }
