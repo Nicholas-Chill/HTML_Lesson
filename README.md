@@ -8,3 +8,9 @@ Pages in my website:
 - About
 - Login
 - Buttons
+
+`<label for="username">Username</label>
+    <input type="text" name="username" id="username"> <br>
+    <label for="password">Password</label>
+    <input type="password" name="password" id="password"> <br>
+    <button onclick="alert('Invalid username or password')">Log in</button>`
